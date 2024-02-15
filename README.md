@@ -1,5 +1,5 @@
 # Digital-IC-Design
-Digital IC Design Course
+Digital IC Design Course (112B)  
 
 #Resources
 Synopsys Design Compiler User Guide  
