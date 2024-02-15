@@ -1,5 +1,7 @@
 # Digital-IC-Design
 Digital IC Design Course (112B)  
+Discussion Board  
+https://github.com/aky3100/Digital-IC-Design/discussions/1
 
 #Resources
 Synopsys Design Compiler User Guide  
