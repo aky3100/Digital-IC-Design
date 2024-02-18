@@ -3,6 +3,13 @@ Digital IC Design Course (112B)
 Discussion Board (https://github.com/aky3100/Digital-IC-Design/discussions/1)  
 
 #-Resources
+Linux  
+https://linux.vbird.org/linux_basic/centos7/0220filemanager.php
+
+Linux editor vi  
+https://linux.vbird.org/linux_basic/centos7/0310vi.php
+
+
 Synopsys Design Compiler User Guide  
 https://www.synopsys.com/implementation-and-signoff/rtl-synthesis-test/dc-ultra.html
 https://picture.iczhiku.com/resource/eetop/WhIEDLIWLEUyevnv.pdf
