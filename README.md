@@ -2,7 +2,7 @@
 Digital IC Design Course (112B)  
 Discussion Board (https://github.com/aky3100/Digital-IC-Design/discussions/1)  
 
-#-Resources
+#-Resources  
 Linux  
 https://linux.vbird.org/linux_basic/centos7/0220filemanager.php
 
